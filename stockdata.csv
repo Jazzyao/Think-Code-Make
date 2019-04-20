@@ -1,0 +1,4 @@
+Previous Close,Open,Bid,Ask,Day's Range,52 Week Range,Volume,Avg. Volume,Market Cap,Beta (3Y Monthly),PE Ratio (TTM),EPS (TTM),Earnings Date,Forward Dividend & Yield,Ex-Dividend Date,1y Target Est,ticker,url
+203.13,203.12,203.76 x 900,203.83 x 800,202.52 - 204.15,142.00 - 233.47,"20,937,337","28,306,819",961.257B,0.91,16.82,12.121,2019-04-30,2.92 (1.54%),2019-02-08,193.12,aapl,http://finance.yahoo.com/quote/aapl?p=aapl
+121.77,122.19,123.37 x 2900,123.45 x 1800,121.31 - 123.50,90.28 - 123.50,"24,111,597","25,904,598",946.521B,1.01,28.62,4.311,2019-04-24,1.84 (1.56%),2019-05-15,129.25,msft,http://finance.yahoo.com/quote/msft?p=msft
+82.68,82.76,83.22 x 800,83.26 x 900,82.44 - 83.48,60.15 - 90.39,"3,095,944","4,699,069",42.99B,1.05,15.10,5.513,2019-05-22,2.56 (3.19%),2019-05-14,85.19,tgt,http://finance.yahoo.com/quote/tgt?p=tgt
