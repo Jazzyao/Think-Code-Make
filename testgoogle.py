@@ -33,7 +33,7 @@ for sub_heading in soup.find_all('h3'):
 
    
 with open("googlenews.csv", "wb") as f:
-    writer = csv.writer(f, delimiter=' ',
+    writer = csv.writer(f, delimiter=',',
                             escapechar=' ', quoting=csv.QUOTE_NONE)
     writer.writerow(news)
 ##    writer.writerow(stories)
